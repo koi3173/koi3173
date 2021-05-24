@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Kyul Lee.
+- 👀 I’m interested in illustrations and music mixing.
+- 🌱 I’m currently learning data analytics.
